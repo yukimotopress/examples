@@ -1,0 +1,50 @@
+######################
+#  Table of Contents
+
+- title: Strings
+  path:  01-strings.md
+  sections:
+  - title: Introduction
+  - title: Accessing Substrings
+  - title: Establishing a Default Value
+  - title: Exchanging Values Without Using Temporary Variables
+  - title: Converting Between ASCII Characters and Values
+  - title: Processing a String One Character at a Time
+  - title: "Program: slowcat"
+  - title: Reversing a String by Word or Character
+  - title: Expanding and Compressing Tabs
+  - title: Expanding Variables in User Input
+  - title: Controlling Case
+  - title: Interpolating Functions and Expressions Within Strings
+  - title: Indenting Here Documents
+  - title: Reformatting Paragraphs
+  - title: Escaping Characters
+  - title: Trimming Blanks from the Ends of a String
+  - title: Parsing Comma-Separated Data
+  - title: Soundex Matching
+  - title: "Program: fixstyle"
+  - title: "Program: psgrep"
+- title: Numbers
+  path:  02-numbers.md
+  sections:
+  - title: Checking Whether a String Is a Valid Number
+  - title: Comparing Floating-Point Numbers
+  - title: Rounding Floating-Point Numbers
+  - title: Converting Between Binary and Decimal
+  - title: Operating on a Series of Integers
+  - title: Working with Roman Numerals
+  - title: Generating Random Numbers
+  - title: Generating Different Random Numbers
+  - title: Making Numbers Even More Random
+  - title: Generating Biased Random Numbers
+  - title: Doing Trigonometry in Degrees, not Radians
+  - title: Calculating More Trigonometric Functions
+  - title: Taking Logarithms
+  - title: Multiplying Matrices
+  - title: Using Complex Numbers
+  - title: Converting Between Octal and Hexadecimal
+  - title: Putting Commas in Numbers
+  - title: Printing Correct Plurals
+  - title: "Program: Calculating Prime Factors"
+
+
