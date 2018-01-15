@@ -1,4 +1,6 @@
-# Strings
+---
+title: Strings
+---
 
 
 ## Introduction    <!-- @@PLEAC@@_1.0 -->
